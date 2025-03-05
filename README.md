@@ -1,4 +1,5 @@
 # GitHub Python Repositories Explorer
+![Python Repositories Plot](./images/python_repos.png)
 This project fetches and displays information about Python repositories on GitHub with over 10,000 stars. It includes a Python script to interact with the GitHub API and a pytest test suite to validate the functionality.
 
 ## Features
